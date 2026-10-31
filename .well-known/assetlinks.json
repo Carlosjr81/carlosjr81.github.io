@@ -11,5 +11,17 @@
         "9B:1E:D2:74:17:8A:95:9A:E9:13:19:27:CB:AA:3C:DF:54:03:69:6B:56:6D:0B:C5:E0:B1:3A:EA:C4:EE:D4:23"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.superhqs.app",
+      "sha256_cert_fingerprints": [
+        "8B:0F:64:D7:C2:C1:D8:AF:ED:CC:A1:B0:82:69:4F:C1:AF:96:F6:2F:79:DA:71:74:0A:82:15:57:6F:09:22:7A"
+      ]
+    }
   }
 ]
